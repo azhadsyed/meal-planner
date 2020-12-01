@@ -1,4 +1,8 @@
 # Meal planner
+
+12/1/2020 - I just forked this repo from user [Arimai](https://github.com/arimai), below is her original documentation.
+The goals of this fork are to implement calorie counting, macronutrient counting and grocery list generation.
+
  - A web application to plan what you eat daily in accordance to dietary needs. 
  - Please find the [demo here](https://arimai.github.io/meal-planner/#/).
  - This project was bootstrapped with [create-react-app](https://github.com/facebookincubator/create-react-app)
